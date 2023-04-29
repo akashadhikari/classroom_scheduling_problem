@@ -1,1 +1,1 @@
-### Teacher Scheduling Problem
+### Classroom Scheduling Problem
